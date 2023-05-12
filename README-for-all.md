@@ -1,17 +1,17 @@
 
-![ENTER YOUR PROJECT NAME](Here paste link of project screenshot)
+![QR Code Challenge](https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/cybxdhr4wewlscvco9dd.jpg)
 
 
 
-# name of the project
+# QR Code Challenge
 
 <div align="center">
 
-[Live](paste the live link of the solution)
-| [Solution](paste the link of solution)
-| [Challenge](paste the link of challenge)
+[Live](https://muhammedsajadali.github.io/QR-code-Frontend-Mentor-challenge/)
+| [Solution](https://www.frontendmentor.io/solutions/static-qr-code-scanner-page-with-css-pfJpD6BOXK)
+| [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
-This is a solution to the [Enter the name of the challenge +  challenge on Frontend Mentor](the link of challenge)
+This is a solution to the [QR Code challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 </div>
 
@@ -20,14 +20,14 @@ This is a solution to the [Enter the name of the challenge +  challenge on Front
 
 ## About the Project
 
-This challenge will .........bla bla bla add what the heck this challenge is all about
+This challenge ensure your basic skills in HTML and CSS. Also test your responsive skill.
 
 
 
 Users should be able to:
 
 1. View the optimal layout depending on their device's screen size
-2. See hover states for interactive elements
+
 
 
 
@@ -36,13 +36,10 @@ Users should be able to:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
-- Mobile/Desktop-first workflow
-- Vanilla JavaScript
 
-## What I learned 
 
-just type what the heck you learned from this challenge
+
+
 
 ## Acknowledgments
 
